@@ -1,0 +1,5 @@
+# No external dependencies required.
+# Project uses only Python built-in modules:
+# os, logging, sys
+# Therefore, this requirements.txt file is intentionally left empty.
+# If future dependencies are added, they should be listed here.
