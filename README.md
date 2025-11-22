@@ -48,5 +48,12 @@ A simple interface that allows users to:
 - Exit  
 
 ---
+Screenshots of Output :
+<img width="1570" height="586" alt="Screenshot 2025-11-22 191236" src="https://github.com/user-attachments/assets/f71a15e6-911c-4067-a28e-df844ab06286" />
+
+<img width="980" height="691" alt="image" src="https://github.com/user-attachments/assets/9f5a0339-4f82-42b9-8598-0f6cbf053f83" />
+
+<img width="762" height="321" alt="image" src="https://github.com/user-attachments/assets/8c0885a3-1104-402d-b9aa-12a6bcde8aa7" />
+
 
 
